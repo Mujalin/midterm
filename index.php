@@ -4,8 +4,6 @@
 <H1>
 <?php echo "รหัสนิสิต-62310021"; ?><br>
 <?php echo "ชื่อ-นามสกุล มุจลินท์ ขัติยนนท์"; ?><br>
-<iframe width="500" height="500"
-src="https://youtu.be/xuTbtCz3Ysg">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xuTbtCz3Ysg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </BODY>
 </HTML>
